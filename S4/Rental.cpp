@@ -1,4 +1,5 @@
 #include "Rental.h"
+
 using namespace std;
 
 void Rental::add_client(Kunde new_client) {
